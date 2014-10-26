@@ -1,4 +1,6 @@
-### Ansible Playbook to automate the setup of an ELK stack (centralized logging server with Logstash, Elasticsearch, Redis and Kibana)
+### Please note: This repo is inactive and no longer mantained. For a newer Logstash role see [Ansible Logstash role](https://github.com/valentinogagliardi/logstash-role)
+
+#### Ansible Playbook to automate the setup of an ELK stack (centralized logging server with Logstash, Elasticsearch, Redis and Kibana)
 
 [![Build Status](https://travis-ci.org/valentinogagliardi/ansible-logstash.png?branch=master)](https://travis-ci.org/valentinogagliardi/ansible-logstash)
 
